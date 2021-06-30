@@ -5,10 +5,35 @@ This module contains a variety of creatures broken up into multiple compendium p
 
 **Animals**: Various normal animals (non-fantastic)
 * Bear, Black
-* Cougar
-* Boar, Razorback
 * Bear, Brown
+* Boar, Razorback
+* Cat, Cheetah
+* Cat, Dracofelas
+* Cat, Lion
+* Cat, Mountain Lion (Cougar)
+* Cat, Tiger
+* Cattle, Bull
+* Cattle, Cow
+* Cattle, Oxen
+* Deer, Great
+* Deer, Northern
+* Dog, Mastiff
+* Dog, Wolfhound
+* Horse, Chelni
+* Horse, Donkey
+* Horse, Hacherdad
+* Horse, Hodiri
+* Horse, Khanset
+* Horse, Lankum
+* Horse, Reksyni
+* Horse, Unicorn
+* Snake, Adder
+* Snake, Asp
+* Snake, Constrictor
+* Snake, Harbaalese Rattlingsnake
 * Wolf, Black
+* Wolf, Snow
+* Wolf, Winter
 
 **Gargun**: Various subtypes of Harnic Orcs (Gargun)
 * Gargu-Khanu
