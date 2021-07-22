@@ -6,8 +6,14 @@
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "0.8.8",
   "minimumSystemVersion": "1.2.16",
-  "systems": ["hm3"],
-  "author": "toastygm",
+  "system": ["hm3"],
+  "bugs": "https://github.com/toastygm/hm-bestiary/issues",
+  "authors": [
+    {
+      "name": "Tom Rodriguez",
+      "discord": "toasty#8538"
+    }
+  ],
   "packs": [
     {
       "name": "animals.db",
@@ -30,5 +36,8 @@
   ],
   "url": "https://github.com/toastygm/hm-module/",
   "manifest": "https://raw.githubusercontent.com/toastygm/hm-bestiary/master/module.json",
-  "download": "https://github.com/toastygm/hm-bestiary/archive/v0.1.1.zip"
+  "download": "https://github.com/toastygm/hm-bestiary/archive/v0.1.1.zip",
+  "flags": {
+    "allowBugReporter": true
+  }
 }
