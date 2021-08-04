@@ -61,5 +61,5 @@ These beasts come from various sources.  Illustrations by Richard Luschek.
 * HarnMaster 3
 * [Bestiary: The Fatherless Multitude](https://www.lythia.com/harnmaster/beasts/bestiary-the-fatherless-multitude/) - By Rob Barnes, illustrations by Richard Luschek.
 * [Bestiary v3](https://www.lythia.com/game_aides/bestiary-v3/) - Unknown compiler, compiled from various sources.
-
+* Kulicida from Richard Luschek (see his [Patreon](https://www.patreon.com/LuschekII) for more great artwork!)
 This module is "[Fanon](https://www.lythia.com/about/publishing-fan-written-material/)", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.
