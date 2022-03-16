@@ -18,19 +18,19 @@
   ],
   "packs": [
     {
-      "name": "animals.db",
+      "name": "animals",
       "label": "Bestiary: Animals",
       "path": "/packs/animals.db",
       "entity": "Actor"
     },
     {
-      "name": "gargun.db",
+      "name": "gargun",
       "label": "Bestiary: Gargun",
       "path": "/packs/gargun.db",
       "entity": "Actor"
     },
     {
-      "name": "ivashu.db",
+      "name": "ivashu",
       "label": "Bestiary: Ivashu",
       "path": "/packs/ivashu.db",
       "entity": "Actor"
