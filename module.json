@@ -20,19 +20,19 @@
   "system": ["hm3"],
   "packs": [
     {
-      "name": "animals.db",
+      "name": "animals",
       "label": "Bestiary: Animals",
       "path": "packs/animals.db",
       "type": "Actor"
     },
     {
-      "name": "gargun.db",
+      "name": "gargun",
       "label": "Bestiary: Gargun",
       "path": "packs/gargun.db",
       "type": "Actor"
     },
     {
-      "name": "ivashu.db",
+      "name": "ivashu",
       "label": "Bestiary: Ivashu",
       "path": "packs/ivashu.db",
       "type": "Actor"
