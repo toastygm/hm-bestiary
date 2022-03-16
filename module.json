@@ -2,7 +2,7 @@
   "name": "hm-bestiary",
   "title": "Harn Bestiary",
   "description": "<p>Bestiary of creatures for HarnMaster on Foundry VTT</p>",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "minimumCoreVersion": "9",
   "compatibleCoreVersion": "9",
   "minimumSystemVersion": "1.3.0",
