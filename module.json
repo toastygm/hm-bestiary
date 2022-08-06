@@ -24,11 +24,7 @@
     "systems": [{
       "id": "hm3",
       "type": "system",
-      "manifest": "https://github.com/toastygm/HarnMaster-3-FoundryVTT/releases/latest/download/system.json",
-  "minimumCoreVersion": "10",
-      "compatibility": {
-        "verified": "1.4.0"
-      }
+      "manifest": "https://github.com/toastygm/HarnMaster-3-FoundryVTT/releases/latest/download/system.json"
     }]
   },
   "packs": [
@@ -37,24 +33,21 @@
       "label": "Bestiary: Animals",
       "path": "packs/animals.db",
       "system": "hm3",
-      "type": "Actor",
-      "flags": {}
+      "type": "Actor"
     },
     {
       "name": "gargun",
       "label": "Bestiary: Gargun",
       "path": "packs/gargun.db",
       "system": "hm3",
-      "type": "Actor",
-      "flags": {}
+      "type": "Actor"
     },
     {
       "name": "ivashu",
       "label": "Bestiary: Ivashu",
       "path": "packs/ivashu.db",
       "system": "hm3",
-      "type": "Actor",
-      "flags": {}
+      "type": "Actor"
     }
   ],
   "flags": {
