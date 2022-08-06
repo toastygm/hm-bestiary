@@ -1,8 +1,9 @@
 {
   "id": "hm-bestiary",
+  "name": "hm-bestiary",
   "title": "Harn Bestiary",
   "description": "<p>Bestiary of creatures for HarnMaster on Foundry VTT</p>",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "bugs": "https://github.com/toastygm/hm-bestiary/issues",
   "license": "LICENSE",
   "readme": "README.md",
@@ -14,6 +15,7 @@
     }
   ],
   "url": "https://github.com/toastygm/hm-module/",
+  "minimumCoreVersion": "10",
   "compatibility": {
     "minimum": "10",
     "verified": "10"
@@ -23,6 +25,7 @@
       "id": "hm3",
       "type": "system",
       "manifest": "https://github.com/toastygm/HarnMaster-3-FoundryVTT/releases/latest/download/system.json",
+  "minimumCoreVersion": "10",
       "compatibility": {
         "verified": "1.4.0"
       }
@@ -58,5 +61,5 @@
     "allowBugReporter": true
   },
   "manifest": "https://github.com/toastygm/hm-bestiary/releases/latest/download/module.json",
-  "download": "https://github.com/toastygm/hm-bestiary/releases/download/v1.1.1/module.zip"
+  "download": "https://github.com/toastygm/hm-bestiary/releases/download/v1.1.2/module.zip"
 }
