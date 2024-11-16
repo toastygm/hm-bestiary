@@ -1,0 +1,1005 @@
+{
+  "name": "Vlasta",
+  "type": "creature",
+  "img": "modules/hm-bestiary/assets/images/vlasta-headshot.webp",
+  "items": [
+    {
+      "_id": "sWzPhakOXTeUUGjL",
+      "name": "Initiative",
+      "type": "skill",
+      "sort": 100000,
+      "flags": {},
+      "img": "systems/hm3/images/icons/svg/initiative.svg",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Skills 18",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Combat",
+        "skillBase": {
+          "value": 13,
+          "formula": "@agl, @wil, @wil",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 65,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!09BWCD7qpbR7FXNC.sWzPhakOXTeUUGjL"
+    },
+    {
+      "_id": "0pSxDrPGZ6rPRUCl",
+      "name": "Dodge",
+      "type": "skill",
+      "sort": 200000,
+      "flags": {},
+      "img": "systems/hm3/images/icons/svg/dodge.svg",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Skills 21",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Combat",
+        "skillBase": {
+          "value": 19,
+          "formula": "@agl, @agl, @agl",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 95,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!09BWCD7qpbR7FXNC.0pSxDrPGZ6rPRUCl"
+    },
+    {
+      "_id": "Dzc5bR7fY14Kun5K",
+      "name": "Claw",
+      "type": "skill",
+      "sort": 300000,
+      "flags": {},
+      "img": "icons/svg/mystery-man.svg",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Combat",
+        "skillBase": {
+          "value": 0,
+          "formula": "",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 80,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!09BWCD7qpbR7FXNC.Dzc5bR7fY14Kun5K"
+    },
+    {
+      "_id": "uZOsy3ySYHUXxkFa",
+      "name": "Bite",
+      "type": "skill",
+      "sort": 400000,
+      "flags": {},
+      "img": "icons/svg/mystery-man.svg",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Combat",
+        "skillBase": {
+          "value": 0,
+          "formula": "",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 64,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!09BWCD7qpbR7FXNC.uZOsy3ySYHUXxkFa"
+    },
+    {
+      "_id": "DCwYHt2Wj4RfpXMM",
+      "name": "Awareness",
+      "type": "skill",
+      "sort": 500000,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.hm3.std-skills-communication.W6NfzWyYXMA2DLQH"
+        }
+      },
+      "img": "systems/hm3/images/icons/svg/awareness.svg",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Skills 11",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Communication",
+        "skillBase": {
+          "value": 17,
+          "formula": "@eye, @hrg, @sml, Hirin:2, Tarael:2",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 68,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!09BWCD7qpbR7FXNC.DCwYHt2Wj4RfpXMM"
+    },
+    {
+      "_id": "X0jskE8yfIJEqLHD",
+      "name": "Stealth",
+      "type": "skill",
+      "sort": 600000,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.hm3.std-skills-physical.B4hIOZ4Juov0Aoy0"
+        }
+      },
+      "img": "systems/hm3/images/icons/svg/stealth.svg",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Skills 9",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Physical",
+        "skillBase": {
+          "value": 15,
+          "formula": "@agl, @hrg, @wil, Hirin:2, Tarael:2, Tai:2",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 60,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!09BWCD7qpbR7FXNC.X0jskE8yfIJEqLHD"
+    },
+    {
+      "_id": "W3FsWIhLa9e3inZn",
+      "name": "Jumping",
+      "type": "skill",
+      "sort": 700000,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.hm3.std-skills-physical.BY3DCjt2ZDUXJO0g"
+        }
+      },
+      "img": "systems/hm3/images/icons/svg/jump.svg",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Skills 9",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Physical",
+        "skillBase": {
+          "value": 15,
+          "formula": "@str, @agl, @agl, Nadai:2, Hirin:2",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 75,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!09BWCD7qpbR7FXNC.W3FsWIhLa9e3inZn"
+    },
+    {
+      "_id": "cmZg51gGhNkmVWh7",
+      "name": "Head",
+      "type": "armorlocation",
+      "sort": 800000,
+      "flags": {
+        "hm-gold": {
+          "probweight-arms": 1
+        }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "layers": "",
+        "armorQuality": 0,
+        "blunt": 2,
+        "edged": 1,
+        "piercing": 1,
+        "fire": 2,
+        "isFumble": false,
+        "isStumble": false,
+        "isAmputate": false,
+        "impactType": "custom",
+        "effectiveImpact": {
+          "ei1": "M1",
+          "ei5": "S2",
+          "ei9": "S3",
+          "ei13": "K4",
+          "ei17": "K5"
+        },
+        "probWeight": {
+          "high": 20,
+          "mid": 20,
+          "low": 20
+        },
+        "macros": {
+          "command": "",
+          "type": "script"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!09BWCD7qpbR7FXNC.cmZg51gGhNkmVWh7"
+    },
+    {
+      "_id": "PxdWPKMAubTGpQyX",
+      "name": "Neck",
+      "type": "armorlocation",
+      "sort": 900000,
+      "flags": {
+        "hm-gold": {
+          "probweight-arms": 1
+        }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "layers": "",
+        "armorQuality": 0,
+        "blunt": 2,
+        "edged": 1,
+        "piercing": 1,
+        "fire": 2,
+        "isFumble": false,
+        "isStumble": false,
+        "isAmputate": true,
+        "impactType": "custom",
+        "effectiveImpact": {
+          "ei1": "M1",
+          "ei5": "S2",
+          "ei9": "S3",
+          "ei13": "K4",
+          "ei17": "K5"
+        },
+        "probWeight": {
+          "high": 5,
+          "mid": 5,
+          "low": 5
+        },
+        "macros": {
+          "command": "",
+          "type": "script"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!09BWCD7qpbR7FXNC.PxdWPKMAubTGpQyX"
+    },
+    {
+      "_id": "6PMUbAaiBUWA21TD",
+      "name": "Left Fore Limb",
+      "type": "armorlocation",
+      "sort": 1000000,
+      "flags": {
+        "hm-gold": {
+          "probweight-arms": 1
+        }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "layers": "",
+        "armorQuality": 0,
+        "blunt": 2,
+        "edged": 1,
+        "piercing": 1,
+        "fire": 2,
+        "isFumble": false,
+        "isStumble": false,
+        "isAmputate": true,
+        "impactType": "custom",
+        "effectiveImpact": {
+          "ei1": "M1",
+          "ei5": "M1",
+          "ei9": "S2",
+          "ei13": "S3",
+          "ei17": "G4"
+        },
+        "probWeight": {
+          "high": 3,
+          "mid": 3,
+          "low": 3
+        },
+        "macros": {
+          "command": "",
+          "type": "script"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!09BWCD7qpbR7FXNC.6PMUbAaiBUWA21TD"
+    },
+    {
+      "_id": "bUkDUsEzt5DS16JS",
+      "name": "Right Fore Limb",
+      "type": "armorlocation",
+      "sort": 1100000,
+      "flags": {
+        "hm-gold": {
+          "probweight-arms": 1
+        }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "layers": "",
+        "armorQuality": 0,
+        "blunt": 2,
+        "edged": 1,
+        "piercing": 1,
+        "fire": 2,
+        "isFumble": false,
+        "isStumble": false,
+        "isAmputate": true,
+        "impactType": "custom",
+        "effectiveImpact": {
+          "ei1": "M1",
+          "ei5": "M1",
+          "ei9": "S2",
+          "ei13": "S3",
+          "ei17": "G4"
+        },
+        "probWeight": {
+          "high": 2,
+          "mid": 2,
+          "low": 2
+        },
+        "macros": {
+          "command": "",
+          "type": "script"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!09BWCD7qpbR7FXNC.bUkDUsEzt5DS16JS"
+    },
+    {
+      "_id": "Fd6zg7h11C0xI98V",
+      "name": "Torso",
+      "type": "armorlocation",
+      "sort": 1200000,
+      "flags": {
+        "hm-gold": {
+          "probweight-arms": 1
+        }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "layers": "",
+        "armorQuality": 0,
+        "blunt": 2,
+        "edged": 1,
+        "piercing": 1,
+        "fire": 2,
+        "isFumble": false,
+        "isStumble": false,
+        "isAmputate": false,
+        "impactType": "custom",
+        "effectiveImpact": {
+          "ei1": "M1",
+          "ei5": "S2",
+          "ei9": "S3",
+          "ei13": "G4",
+          "ei17": "K5"
+        },
+        "probWeight": {
+          "high": 30,
+          "mid": 30,
+          "low": 30
+        },
+        "macros": {
+          "command": "",
+          "type": "script"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!09BWCD7qpbR7FXNC.Fd6zg7h11C0xI98V"
+    },
+    {
+      "_id": "BB3hQ87qnCNTVG2X",
+      "name": "Tail",
+      "type": "armorlocation",
+      "sort": 1300000,
+      "flags": {
+        "hm-gold": {
+          "probweight-arms": 1
+        }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "layers": "",
+        "armorQuality": 0,
+        "blunt": 2,
+        "edged": 1,
+        "piercing": 1,
+        "fire": 2,
+        "isFumble": false,
+        "isStumble": true,
+        "isAmputate": true,
+        "impactType": "custom",
+        "effectiveImpact": {
+          "ei1": "M1",
+          "ei5": "M1",
+          "ei9": "S2",
+          "ei13": "S3",
+          "ei17": "G4"
+        },
+        "probWeight": {
+          "high": 30,
+          "mid": 30,
+          "low": 30
+        },
+        "macros": {
+          "command": "",
+          "type": "script"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!09BWCD7qpbR7FXNC.BB3hQ87qnCNTVG2X"
+    },
+    {
+      "_id": "8ubp8jf0clbuKRj7",
+      "name": "Left Hind Limb",
+      "type": "armorlocation",
+      "sort": 1400000,
+      "flags": {
+        "hm-gold": {
+          "probweight-arms": 1
+        }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "layers": "",
+        "armorQuality": 0,
+        "blunt": 2,
+        "edged": 1,
+        "piercing": 1,
+        "fire": 2,
+        "isFumble": false,
+        "isStumble": true,
+        "isAmputate": true,
+        "impactType": "custom",
+        "effectiveImpact": {
+          "ei1": "M1",
+          "ei5": "S2",
+          "ei9": "S3",
+          "ei13": "G4",
+          "ei17": "K4"
+        },
+        "probWeight": {
+          "high": 5,
+          "mid": 5,
+          "low": 5
+        },
+        "macros": {
+          "command": "",
+          "type": "script"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!09BWCD7qpbR7FXNC.8ubp8jf0clbuKRj7"
+    },
+    {
+      "_id": "HMwwgB83ZtkQi5YN",
+      "name": "Right Hind Limb",
+      "type": "armorlocation",
+      "sort": 1500000,
+      "flags": {
+        "hm-gold": {
+          "probweight-arms": 1
+        }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "layers": "",
+        "armorQuality": 0,
+        "blunt": 2,
+        "edged": 1,
+        "piercing": 1,
+        "fire": 2,
+        "isFumble": false,
+        "isStumble": true,
+        "isAmputate": true,
+        "impactType": "custom",
+        "effectiveImpact": {
+          "ei1": "M1",
+          "ei5": "S2",
+          "ei9": "S3",
+          "ei13": "G4",
+          "ei17": "K4"
+        },
+        "probWeight": {
+          "high": 5,
+          "mid": 5,
+          "low": 5
+        },
+        "macros": {
+          "command": "",
+          "type": "script"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!09BWCD7qpbR7FXNC.HMwwgB83ZtkQi5YN"
+    },
+    {
+      "_id": "eiJeb33dWbumDb3R",
+      "name": "Claw",
+      "type": "weapongear",
+      "sort": 1600000,
+      "flags": {},
+      "img": "icons/svg/mystery-man.svg",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "quantity": 1,
+        "value": 0,
+        "weight": 0,
+        "isCarried": true,
+        "isEquipped": true,
+        "container": "on-person",
+        "arcane": {
+          "isArtifact": false,
+          "isAttuned": false,
+          "charges": -1,
+          "ego": 0
+        },
+        "assocSkill": "Claw",
+        "weaponQuality": 0,
+        "attackMasteryLevel": 0,
+        "attack": 0,
+        "defense": 0,
+        "attackModifier": 0,
+        "blunt": 0,
+        "edged": 2,
+        "piercing": 0,
+        "defenseMasteryLevel": 0
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!09BWCD7qpbR7FXNC.eiJeb33dWbumDb3R"
+    },
+    {
+      "_id": "jONtQU8YBTu3YezB",
+      "name": "Bite",
+      "type": "weapongear",
+      "sort": 1700000,
+      "flags": {},
+      "img": "icons/svg/mystery-man.svg",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "quantity": 1,
+        "value": 0,
+        "weight": 0,
+        "isCarried": true,
+        "isEquipped": true,
+        "container": "on-person",
+        "arcane": {
+          "isArtifact": false,
+          "isAttuned": false,
+          "charges": -1,
+          "ego": 0
+        },
+        "assocSkill": "Bite",
+        "weaponQuality": 0,
+        "attackMasteryLevel": 0,
+        "attack": 0,
+        "defense": 0,
+        "attackModifier": 0,
+        "blunt": 0,
+        "edged": 0,
+        "piercing": 2,
+        "defenseMasteryLevel": 0
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!09BWCD7qpbR7FXNC.jONtQU8YBTu3YezB"
+    }
+  ],
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.ivashu.db.ZisdikyXlHuZisLV"
+    }
+  },
+  "_id": "09BWCD7qpbR7FXNC",
+  "system": {
+    "bioImage": "modules/hm-bestiary/assets/images/vlasta.webp",
+    "species": "",
+    "fatigue": 0,
+    "sunsign": "",
+    "abilities": {
+      "strength": {
+        "base": 6
+      },
+      "stamina": {
+        "base": 10
+      },
+      "dexterity": {
+        "base": 17
+      },
+      "agility": {
+        "base": 19
+      },
+      "intelligence": {
+        "base": 3
+      },
+      "aura": {
+        "base": 5
+      },
+      "will": {
+        "base": 10
+      },
+      "eyesight": {
+        "base": 17
+      },
+      "hearing": {
+        "base": 15
+      },
+      "smell": {
+        "base": 19
+      },
+      "voice": {
+        "base": 0
+      },
+      "comeliness": {
+        "base": 0
+      },
+      "morality": {
+        "base": 0
+      }
+    },
+    "move": {
+      "base": 125
+    },
+    "shockIndex": {
+      "max": 100,
+      "value": 100
+    },
+    "description": "",
+    "biography": "<h1>Data</h1>\n<table style=\"width: 95%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 143.6px;\"><strong>Habitat</strong></td>\n<td style=\"width: 432px;\">Caverns</td>\n</tr>\n<tr>\n<td style=\"width: 143.6px;\"><strong>Height</strong></td>\n<td style=\"width: 432px;\">18 inches</td>\n</tr>\n<tr>\n<td style=\"width: 143.6px;\"><strong>Weight</strong></td>\n<td style=\"width: 432px;\">20 lbs.</td>\n</tr>\n<tr>\n<td style=\"width: 143.6px;\"><strong>Diet</strong></td>\n<td style=\"width: 432px;\">Carnivore</td>\n</tr>\n<tr>\n<td style=\"width: 143.6px;\"><strong>Lifespan</strong></td>\n<td style=\"width: 432px;\">5 years</td>\n</tr>\n<tr>\n<td style=\"width: 143.6px;\"><strong>Group</strong></td>\n<td style=\"width: 432px;\">2-12</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p>Vlasta rarely exceed 18 inches in height or 20 pounds in weight. Yet these voracious carnivores are among the most feared of predators. With their powerful tails and hind legs, Vlasta can leap up to 20 feet and move with great speed over short distances.</p>\n<p>&nbsp;</p>\n<h1>Special Abilities</h1>\n<p><strong>Eater of Eyes:&nbsp;</strong>If a Vlasta inflicts a Bite&nbsp;wound against any Head location, there&nbsp;is a 70% chance the victim will lose one&nbsp;eye due to rapid pecks and gouges.</p>\n<h1>Attacks</h1>\n<p>They attack large victims by leaping at the face (aim high) hoping to devour an eye or two, which they consider a tasty delicacy. If a Vlasta inflicts a Bite wound against any Head location, there is a 70% chance the victim will lose one eye due to rapid pecks and gouges. The loss is automatic with a CS strike.</p>\n<h1>Behavior</h1>\n<p>Describe behavioral aspects.</p>",
+    "macros": {
+      "type": "script",
+      "command": ""
+    },
+    "loadRating": 0
+  },
+  "ownership": {
+    "default": 0,
+    "ykPKBu8DWhDGBQcu": 3,
+    "J9LJZfy7UDqGwKQ1": 3
+  },
+  "prototypeToken": {
+    "flags": {},
+    "name": "Small Raptor",
+    "displayName": 50,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": "shockIndex"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "randomImg": false,
+    "alpha": 1,
+    "light": {
+      "dim": 0,
+      "bright": 0,
+      "angle": 360,
+      "color": null,
+      "alpha": 1,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "type": null,
+        "reverse": false
+      },
+      "coloration": 1,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "texture": {
+      "src": "modules/hm-bestiary/assets/images/vlasta-token.webp",
+      "tint": null,
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": true,
+      "range": 30,
+      "brightness": 0,
+      "color": null,
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "visionMode": "basic"
+    }
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors!09BWCD7qpbR7FXNC"
+}

@@ -1,0 +1,525 @@
+{
+  "name": "Wolf, Winter",
+  "type": "creature",
+  "img": "icons/svg/mystery-man.svg",
+  "items": [
+    {
+      "type": "armorlocation",
+      "name": "Body",
+      "_id": "ha7wyqdnht6zulxx",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "hm-gold": {
+          "probweight-arms": 1
+        }
+      },
+      "system": {
+        "layers": "",
+        "armorQuality": 0,
+        "blunt": 4,
+        "edged": 3,
+        "piercing": 2,
+        "fire": 13,
+        "isFumble": false,
+        "isStumble": false,
+        "isAmputate": false,
+        "impactType": "custom",
+        "effectiveImpact": {
+          "ei1": "M1",
+          "ei5": "S2",
+          "ei9": "S3",
+          "ei13": "G4",
+          "ei17": "G5"
+        },
+        "probWeight": {
+          "high": 1,
+          "mid": 1,
+          "low": 1
+        },
+        "macros": {
+          "command": "",
+          "type": "script"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!D3gMOfDH3B6ymFGE.ha7wyqdnht6zulxx"
+    },
+    {
+      "name": "Initiative",
+      "type": "skill",
+      "img": "systems/hm3/images/icons/svg/initiative.svg",
+      "_id": "8ayz5x6hoqr0thk1",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Combat",
+        "skillBase": {
+          "value": 0,
+          "formula": "",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 60,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!D3gMOfDH3B6ymFGE.8ayz5x6hoqr0thk1"
+    },
+    {
+      "type": "skill",
+      "img": "systems/hm3/images/icons/svg/awareness.svg",
+      "name": "Awareness",
+      "_id": "9npkcq37dldyqn81",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Communication",
+        "skillBase": {
+          "value": 0,
+          "formula": "",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 85,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!D3gMOfDH3B6ymFGE.9npkcq37dldyqn81"
+    },
+    {
+      "img": "systems/hm3/images/icons/svg/stealth.svg",
+      "type": "skill",
+      "name": "Stealth",
+      "_id": "dznfkax0dakqy2n0",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Physical",
+        "skillBase": {
+          "value": 0,
+          "formula": "",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 67,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!D3gMOfDH3B6ymFGE.dznfkax0dakqy2n0"
+    },
+    {
+      "name": "Bite",
+      "img": "systems/hm3/images/icons/svg/fangs.svg",
+      "type": "skill",
+      "_id": "x32lkb8yfsn4ztnz",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Combat",
+        "skillBase": {
+          "value": 0,
+          "formula": "",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 70,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!D3gMOfDH3B6ymFGE.x32lkb8yfsn4ztnz"
+    },
+    {
+      "type": "skill",
+      "img": "systems/hm3/images/icons/svg/tracking.svg",
+      "name": "Tracking",
+      "_id": "pw33kovl9qidj2o5",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Craft",
+        "skillBase": {
+          "value": 0,
+          "formula": "",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 75,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!D3gMOfDH3B6ymFGE.pw33kovl9qidj2o5"
+    },
+    {
+      "img": "systems/hm3/images/icons/svg/dodge.svg",
+      "type": "skill",
+      "name": "Dodge",
+      "_id": "rolvd9bswldkf3yp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Combat",
+        "skillBase": {
+          "value": 0,
+          "formula": "",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 40,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!D3gMOfDH3B6ymFGE.rolvd9bswldkf3yp"
+    },
+    {
+      "img": "systems/hm3/images/icons/svg/fangs.svg",
+      "type": "weapongear",
+      "name": "Fangs",
+      "_id": "qyd9y9wpa4f2by84",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "quantity": 1,
+        "value": 0,
+        "weight": 0,
+        "isCarried": true,
+        "isEquipped": true,
+        "container": "on-person",
+        "arcane": {
+          "isArtifact": false,
+          "isAttuned": false,
+          "charges": -1,
+          "ego": 0
+        },
+        "assocSkill": "Bite",
+        "weaponQuality": 0,
+        "attackMasteryLevel": 0,
+        "attack": 0,
+        "defense": 0,
+        "attackModifier": 0,
+        "blunt": -1,
+        "edged": -1,
+        "piercing": 7,
+        "defenseMasteryLevel": 0
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!D3gMOfDH3B6ymFGE.qyd9y9wpa4f2by84"
+    }
+  ],
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "exportSource": {
+      "system": "hm3",
+      "systemVersion": "1.2.16",
+      "world": "convert-hc-to-fvtt",
+      "coreVersion": "0.8.6"
+    },
+    "core": {
+      "sourceId": "Compendium.world.animalsjson.RN7uXMI00Qd4tJvq"
+    }
+  },
+  "_id": "D3gMOfDH3B6ymFGE",
+  "system": {
+    "bioImage": "systems/hm3/images/svg/knight-silhouette.svg",
+    "species": "",
+    "fatigue": 0,
+    "sunsign": "",
+    "abilities": {
+      "strength": {
+        "base": 14
+      },
+      "stamina": {
+        "base": 15
+      },
+      "dexterity": {
+        "base": 0
+      },
+      "agility": {
+        "base": 14
+      },
+      "intelligence": {
+        "base": 5
+      },
+      "aura": {
+        "base": 7
+      },
+      "will": {
+        "base": 13
+      },
+      "eyesight": {
+        "base": 6
+      },
+      "hearing": {
+        "base": 17
+      },
+      "smell": {
+        "base": 19
+      },
+      "voice": {
+        "base": 0
+      },
+      "comeliness": {
+        "base": 0
+      },
+      "morality": {
+        "base": 0
+      }
+    },
+    "move": {
+      "base": 150
+    },
+    "shockIndex": {
+      "max": 100,
+      "value": 100
+    },
+    "description": "<p>This large wolf's coat <span style=\"color: #191813; font-size: 13px;\">is glistening white or silvery, and its eyes are very pale blue or silver.</span><span style=\"color: #191813; font-size: 13px;\">&nbsp;</span></p>",
+    "biography": "<h1>Data</h1>\n<table style=\"width: 95%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 143px;\"><strong>Habitat</strong></td>\n<td style=\"width: 432px;\">High Mountains and Cold Locations</td>\n</tr>\n<tr>\n<td style=\"width: 143px;\"><strong>Height</strong></td>\n<td style=\"width: 432px;\">3'6\" at shoulder</td>\n</tr>\n<tr>\n<td style=\"width: 143px;\"><strong>Weight</strong></td>\n<td style=\"width: 432px;\">175 lbs.</td>\n</tr>\n<tr>\n<td style=\"width: 143px;\"><strong>Diet</strong></td>\n<td style=\"width: 432px;\">Carnivore</td>\n</tr>\n<tr>\n<td style=\"width: 143px;\"><strong>Lifespan</strong></td>\n<td style=\"width: 432px;\">12-20 years</td>\n</tr>\n<tr>\n<td style=\"width: 143px;\"><strong>Group</strong></td>\n<td style=\"width: 432px;\">2-8</td>\n</tr>\n<tr>\n<td style=\"width: 143px;\"><strong>Source</strong></td>\n<td style=\"width: 432px;\">Ed and Terry</td>\n</tr>\n<tr>\n<td style=\"width: 143px;\"><strong>Skills</strong></td>\n<td style=\"width: 432px;\">unarmed (bite) 70/7t</td>\n</tr>\n</tbody>\n</table>\n<h1>Description</h1>\n<p>Winter wolves are not normally from Kethira, but some few now dwell here (having originally been summoned by Lothrim the Foulspawner, and subsequently by other equally nefarious sorcerers). The pelt of a Winter Wolf is of enormous value when sold in the proper markets.</p>\n<h1>Special Abilities</h1>\n<p>Winter wolves move with great stealth. They also have a very keen sense of hearing and smell. Their exceptional sense of smell allows them to locate hidden or invisible creature 75% of the time.</p>\n<p>Cold-based attacks do not normally harm them, but fire-based attacks cause an additional 2 fire impact damage.</p>\n<h1>Attacks</h1>\n<p>In addition to a normal attack (simply biting with their great white teeth), winter wolves can breathe a freezing breath out to a range of 10 feet.</p>\n<h1>Behavior</h1>\n<p>&nbsp;</p>",
+    "macros": {
+      "type": "script",
+      "command": ""
+    },
+    "loadRating": 0
+  },
+  "ownership": {
+    "default": 0,
+    "J9LJZfy7UDqGwKQ1": 3,
+    "GQFkK1Ng8wDWHlCC": 3
+  },
+  "prototypeToken": {
+    "name": "Ed and Terry - Winter Wolf",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": "shockIndex"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "light": {
+      "dim": 0,
+      "bright": 0,
+      "angle": 360,
+      "alpha": 0.25,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "type": null,
+        "reverse": false
+      },
+      "color": null,
+      "coloration": 1,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": null
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "color": null,
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "visionMode": "basic"
+    }
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors!D3gMOfDH3B6ymFGE"
+}

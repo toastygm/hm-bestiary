@@ -1,0 +1,852 @@
+{
+  "name": "Snake, Adder",
+  "type": "creature",
+  "img": "icons/svg/mystery-man.svg",
+  "items": [
+    {
+      "img": "systems/hm3/images/icons/svg/initiative.svg",
+      "name": "Initiative",
+      "type": "skill",
+      "_id": "vjso3nvut2hcr464",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Combat",
+        "skillBase": {
+          "value": 0,
+          "formula": "",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 45,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!WPoJCwiKCxcJEAeq.vjso3nvut2hcr464"
+    },
+    {
+      "img": "systems/hm3/images/icons/svg/awareness.svg",
+      "type": "skill",
+      "name": "Awareness",
+      "_id": "8a52i181okn6vij2",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Communication",
+        "skillBase": {
+          "value": 0,
+          "formula": "",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 56,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!WPoJCwiKCxcJEAeq.8a52i181okn6vij2"
+    },
+    {
+      "name": "Stealth",
+      "type": "skill",
+      "img": "systems/hm3/images/icons/svg/stealth.svg",
+      "_id": "ocrfx2y346rm5nqy",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Physical",
+        "skillBase": {
+          "value": 0,
+          "formula": "",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 70,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!WPoJCwiKCxcJEAeq.ocrfx2y346rm5nqy"
+    },
+    {
+      "type": "skill",
+      "name": "Bite",
+      "img": "systems/hm3/images/icons/svg/fangs.svg",
+      "_id": "ao6dzr2pemlv6brt",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Combat",
+        "skillBase": {
+          "value": 0,
+          "formula": "",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 55,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!WPoJCwiKCxcJEAeq.ao6dzr2pemlv6brt"
+    },
+    {
+      "name": "Dodge",
+      "type": "skill",
+      "img": "systems/hm3/images/icons/svg/dodge.svg",
+      "_id": "01tuhnva9v13j2ez",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Combat",
+        "skillBase": {
+          "value": 0,
+          "formula": "",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 60,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!WPoJCwiKCxcJEAeq.01tuhnva9v13j2ez"
+    },
+    {
+      "img": "systems/hm3/images/icons/svg/fangs.svg",
+      "name": "Fangs",
+      "type": "weapongear",
+      "_id": "zhhf163tv52d6085",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "quantity": 1,
+        "value": 0,
+        "weight": 0,
+        "isCarried": true,
+        "isEquipped": true,
+        "container": "on-person",
+        "arcane": {
+          "isArtifact": false,
+          "isAttuned": false,
+          "charges": -1,
+          "ego": 0
+        },
+        "assocSkill": "Bite",
+        "weaponQuality": 0,
+        "attackMasteryLevel": 0,
+        "attack": 0,
+        "defense": 0,
+        "attackModifier": 0,
+        "blunt": -1,
+        "edged": -1,
+        "piercing": 3,
+        "defenseMasteryLevel": 0
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!WPoJCwiKCxcJEAeq.zhhf163tv52d6085"
+    },
+    {
+      "_id": "mqiKVN6wK4hIXL5T",
+      "name": "Climbing",
+      "type": "skill",
+      "img": "systems/hm3/images/icons/svg/climbing.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.hm3.std-skills-physical.47vU74DY9WbgeVin"
+        }
+      },
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Skills 8",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Physical",
+        "skillBase": {
+          "value": 5,
+          "formula": "@str, @dex, @agl, Ulandus:2, Aralius:2",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 40,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!WPoJCwiKCxcJEAeq.mqiKVN6wK4hIXL5T"
+    },
+    {
+      "_id": "vrlh5zurAiqPxgrW",
+      "name": "Tracking",
+      "type": "skill",
+      "img": "systems/hm3/images/icons/svg/tracking.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.hm3.std-skills-crafts-and-lore.E9huamcKA7ObQIuv"
+        }
+      },
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Skills 17",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Craft",
+        "skillBase": {
+          "value": 13,
+          "formula": "@eye, @sml, @wil, Ulandus:3, Aralius:3",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 50,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!WPoJCwiKCxcJEAeq.vrlh5zurAiqPxgrW"
+    },
+    {
+      "_id": "QIAXo2jVmYIZu3TC",
+      "name": "Intimidate",
+      "type": "skill",
+      "img": "systems/hm3/images/icons/svg/rhetoric.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.hm3.std-skills-communication.fPGvWCIxGfuvMS9V"
+        }
+      },
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Skills 12",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Communication",
+        "skillBase": {
+          "value": 3,
+          "formula": "@voi, @int, @wil, Tai, Tarael, Skorus",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 40,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!WPoJCwiKCxcJEAeq.QIAXo2jVmYIZu3TC"
+    },
+    {
+      "_id": "ptblsR7sBls7IvSn",
+      "name": "Head",
+      "type": "armorlocation",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "hm-gold": {
+          "probweight-arms": 1
+        }
+      },
+      "system": {
+        "layers": "",
+        "armorQuality": 0,
+        "blunt": 1,
+        "edged": 1,
+        "piercing": 0,
+        "fire": 1,
+        "isFumble": false,
+        "isStumble": false,
+        "isAmputate": false,
+        "impactType": "custom",
+        "effectiveImpact": {
+          "ei1": "M1",
+          "ei5": "S2",
+          "ei9": "S3",
+          "ei13": "K4",
+          "ei17": "K5"
+        },
+        "probWeight": {
+          "high": 15,
+          "mid": 15,
+          "low": 15
+        },
+        "notes": "",
+        "macros": {
+          "command": "",
+          "type": "script"
+        }
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!WPoJCwiKCxcJEAeq.ptblsR7sBls7IvSn"
+    },
+    {
+      "_id": "UqOiiDf7yPLGz0Mu",
+      "name": "Neck",
+      "type": "armorlocation",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "hm-gold": {
+          "probweight-arms": 1
+        }
+      },
+      "system": {
+        "layers": "",
+        "armorQuality": 0,
+        "blunt": 1,
+        "edged": 1,
+        "piercing": 0,
+        "fire": 1,
+        "isFumble": false,
+        "isStumble": false,
+        "isAmputate": true,
+        "impactType": "custom",
+        "effectiveImpact": {
+          "ei1": "M1",
+          "ei5": "S2",
+          "ei9": "S3",
+          "ei13": "K4",
+          "ei17": "K5"
+        },
+        "probWeight": {
+          "high": 20,
+          "mid": 20,
+          "low": 20
+        },
+        "notes": "",
+        "macros": {
+          "command": "",
+          "type": "script"
+        }
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!WPoJCwiKCxcJEAeq.UqOiiDf7yPLGz0Mu"
+    },
+    {
+      "_id": "UqZuf2uRtadYbC5g",
+      "name": "Thorax",
+      "type": "armorlocation",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "hm-gold": {
+          "probweight-arms": 1
+        }
+      },
+      "system": {
+        "layers": "",
+        "armorQuality": 0,
+        "blunt": 1,
+        "edged": 1,
+        "piercing": 0,
+        "fire": 1,
+        "isFumble": false,
+        "isStumble": false,
+        "isAmputate": true,
+        "impactType": "custom",
+        "effectiveImpact": {
+          "ei1": "M1",
+          "ei5": "S2",
+          "ei9": "S3",
+          "ei13": "G4",
+          "ei17": "K5"
+        },
+        "probWeight": {
+          "high": 30,
+          "mid": 30,
+          "low": 30
+        },
+        "notes": "",
+        "macros": {
+          "command": "",
+          "type": "script"
+        }
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!WPoJCwiKCxcJEAeq.UqZuf2uRtadYbC5g"
+    },
+    {
+      "_id": "E7RVt8VDobJGGTFL",
+      "name": "Abdomen",
+      "type": "armorlocation",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "hm-gold": {
+          "probweight-arms": 1
+        }
+      },
+      "system": {
+        "layers": "",
+        "armorQuality": 0,
+        "blunt": 1,
+        "edged": 1,
+        "piercing": 0,
+        "fire": 1,
+        "isFumble": false,
+        "isStumble": false,
+        "isAmputate": true,
+        "impactType": "custom",
+        "effectiveImpact": {
+          "ei1": "M1",
+          "ei5": "S2",
+          "ei9": "S3",
+          "ei13": "K4",
+          "ei17": "K5"
+        },
+        "probWeight": {
+          "high": 20,
+          "mid": 20,
+          "low": 20
+        },
+        "notes": "",
+        "macros": {
+          "command": "",
+          "type": "script"
+        }
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!WPoJCwiKCxcJEAeq.E7RVt8VDobJGGTFL"
+    },
+    {
+      "_id": "HRWHwlwVdsdbp0nM",
+      "name": "Tail",
+      "type": "armorlocation",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "hm-gold": {
+          "probweight-arms": 1
+        }
+      },
+      "system": {
+        "layers": "",
+        "armorQuality": 0,
+        "blunt": 1,
+        "edged": 1,
+        "piercing": 0,
+        "fire": 1,
+        "isFumble": false,
+        "isStumble": false,
+        "isAmputate": true,
+        "impactType": "custom",
+        "effectiveImpact": {
+          "ei1": "M1",
+          "ei5": "M1",
+          "ei9": "S2",
+          "ei13": "S3",
+          "ei17": "G4"
+        },
+        "probWeight": {
+          "high": 15,
+          "mid": 15,
+          "low": 15
+        },
+        "notes": "",
+        "macros": {
+          "command": "",
+          "type": "script"
+        }
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!WPoJCwiKCxcJEAeq.HRWHwlwVdsdbp0nM"
+    }
+  ],
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "exportSource": {
+      "systemVersion": "1.2.16",
+      "system": "hm3",
+      "world": "convert-hc-to-fvtt",
+      "coreVersion": "0.8.6"
+    },
+    "core": {
+      "sourceId": "Compendium.world.animalsjson.3Avoa0kVinKJGI0u"
+    }
+  },
+  "_id": "WPoJCwiKCxcJEAeq",
+  "system": {
+    "bioImage": "systems/hm3/images/svg/knight-silhouette.svg",
+    "species": "",
+    "fatigue": 0,
+    "sunsign": "",
+    "abilities": {
+      "strength": {
+        "base": 4
+      },
+      "stamina": {
+        "base": 10
+      },
+      "dexterity": {
+        "base": 0
+      },
+      "agility": {
+        "base": 12
+      },
+      "intelligence": {
+        "base": 2
+      },
+      "aura": {
+        "base": 1
+      },
+      "will": {
+        "base": 8
+      },
+      "eyesight": {
+        "base": 16
+      },
+      "hearing": {
+        "base": 10
+      },
+      "smell": {
+        "base": 16
+      },
+      "voice": {
+        "base": 0
+      },
+      "comeliness": {
+        "base": 0
+      },
+      "morality": {
+        "base": 0
+      }
+    },
+    "move": {
+      "base": 60
+    },
+    "shockIndex": {
+      "max": 100,
+      "value": 100
+    },
+    "description": null,
+    "biography": "<h1>Data</h1>\n<table style=\"width: 95%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 143px;\"><strong>Habitat</strong></td>\n<td style=\"width: 432px;\">Various</td>\n</tr>\n<tr>\n<td style=\"width: 143px;\"><strong>Length</strong></td>\n<td style=\"width: 432px;\">7&ndash;23 in</td>\n</tr>\n<tr>\n<td style=\"width: 143px;\"><strong>Weight</strong></td>\n<td style=\"width: 432px;\">1.7&ndash;2.1 oz</td>\n</tr>\n<tr>\n<td style=\"width: 143px;\"><strong>Diet</strong></td>\n<td style=\"width: 432px;\">Carnivore</td>\n</tr>\n<tr>\n<td style=\"width: 143px;\"><strong>Lifespan</strong></td>\n<td style=\"width: 432px;\">20 years</td>\n</tr>\n<tr>\n<td style=\"width: 143px;\"><strong>Cycle</strong></td>\n<td style=\"width: 432px;\">Diurnal</td>\n</tr>\n<tr>\n<td style=\"width: 143px;\"><strong>Source</strong></td>\n<td style=\"width: 432px;\">HarnWorld Bestiary</td>\n</tr>\n</tbody>\n</table>\n<h1>Venom</h1>\n<table style=\"width: 95%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 143px;\"><strong>Heath Adder</strong></td>\n<td style=\"width: 432px;\">H3, 60 minutes</td>\n</tr>\n<tr>\n<td style=\"width: 143px;\"><strong>Death Adder</strong></td>\n<td style=\"width: 432px;\">H3, 90 minutes</td>\n</tr>\n<tr>\n<td style=\"width: 143px;\"><strong>H&acirc;rnic Adder</strong></td>\n<td style=\"width: 432px;\">H4, 90 minutes</td>\n</tr>\n<tr>\n<td style=\"width: 143px;\"><strong>Paraman Viper</strong></td>\n<td style=\"width: 432px;\">H3, 60 minutes</td>\n</tr>\n</tbody>\n</table>",
+    "macros": {
+      "type": "script",
+      "command": ""
+    },
+    "loadRating": 0
+  },
+  "ownership": {
+    "default": 0,
+    "J9LJZfy7UDqGwKQ1": 3,
+    "GQFkK1Ng8wDWHlCC": 3
+  },
+  "prototypeToken": {
+    "name": "HarnWorld Bestiary - Snake-Poisonous",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": "shockIndex"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "light": {
+      "dim": 0,
+      "bright": 0,
+      "angle": 360,
+      "alpha": 0.25,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "type": null,
+        "reverse": false
+      },
+      "color": null,
+      "coloration": 1,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": null
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "color": null,
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "visionMode": "basic"
+    }
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors!WPoJCwiKCxcJEAeq"
+}
